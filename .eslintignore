@@ -1,0 +1,6 @@
+!/*.js
+!/**/.eslintrc.js
+coverage
+dist
+node_modules
+*.snap
